@@ -1,0 +1,109 @@
+
+Formation of the first team
+Choose droid №1
+1. Heal Droid
+2. Attack Droid
+3. Defend Droid
+4. Standart Droid
+Your choice: 2
+
+Formation of the second team
+Choose droid №1
+1. Heal Droid
+2. Attack Droid
+3. Defend Droid
+4. Standart Droid
+Your choice: 2
+
+----------------------------Round №1----------------------------
+First team turn:
+Attack Droid give 5 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 30 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 45 Maximal Damage: 15)
+
+Second team:
+Attack Droid
+(HP: 70 Maximal Damage: 15)
+
+----------------------------Round №2----------------------------
+First team turn:
+Attack Droid give 11 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 1 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 44 Maximal Damage: 15)
+
+Second team:
+Attack Droid
+(HP: 59 Maximal Damage: 15)
+
+----------------------------Round №3----------------------------
+First team turn:
+Attack Droid give 11 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 5 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 39 Maximal Damage: 15)
+
+Second team:
+Attack Droid
+(HP: 48 Maximal Damage: 15)
+
+----------------------------Round №4----------------------------
+First team turn:
+Attack Droid give 11 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 7 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 32 Maximal Damage: 15)
+
+Second team:
+Attack Droid
+(HP: 37 Maximal Damage: 15)
+
+----------------------------Round №5----------------------------
+First team turn:
+Attack Droid give 30 damage to Attack Droid
+
+Second team turn:
+Attack Droid give 10 damage to Attack Droid
+
+First team:
+Attack Droid
+(HP: 22 Maximal Damage: 15)
+
+Second team:
+Attack Droid
+(HP: 7 Maximal Damage: 15)
+
+----------------------------Round №6----------------------------
+First team turn:
+Attack Droid give 30 damage to Attack Droid
+
+Second team turn:
+Team is empty
+
+
+First team:
+Attack Droid
+(HP: 22 Maximal Damage: 15)
+
+Second team:
+Empty
+
+First team win
+
